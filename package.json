@@ -16,8 +16,7 @@
     "clsx": "^1.2.1",
     "phosphor-react": "^1.4.1",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0",
-    "deploy-storybook": "storybook-to-ghpages"
+    "react-dom": "^18.2.0"
   },
   "devDependencies": {
     "@babel/core": "^7.19.3",
@@ -29,6 +28,7 @@
     "@storybook/react": "^6.5.12",
     "@storybook/storybook-deployer": "^2.8.12",
     "@storybook/testing-library": "^0.0.13",
+    "deploy-storybook": "storybook-to-ghpages",
     "@types/react": "^18.0.17",
     "@types/react-dom": "^18.0.6",
     "@vitejs/plugin-react": "^2.1.0",
